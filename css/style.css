@@ -1,0 +1,91 @@
+
+.navbar-default {
+  background-color: #fed29a;
+  border-radius: 0;
+  background-image: none;
+}
+
+
+.navbar-default .navbar-brand {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #fb9a99;
+}
+
+
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+  font-size: 16px;
+}
+
+.navbar-header .navbar-toggle {
+  color: #fff;
+}
+
+.navbar-header .navbar-toggle:hover,
+.navbar-header .navbar-toggle:focus {
+  background-color: #fb9a99;
+  color: #242424;
+}
+
+.portfolio-thumbnail {
+	border-width: 2px;
+	border-style: solid;
+	border-color: #fed29a;
+	width: 95%;
+}
+
+.portfolio-thumbnail:hover {
+  border-color: #fb9a99;
+}
+
+.portfolio-image {
+
+}
+
+.jumbotron {
+  background-image: url("../Assets/Ocean-Underwater-01.jpg");
+  font-family: 'Garamond', serif;
+	text-align: center;
+  background-color: #92e8db;
+}
+
+.jumbotron h2 {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.resume li {
+  font-size: 17px;
+}
+
+.resume h3 {
+font-size: 26px;
+}
+
+.about p {
+  font-size: 20px;
+}
+
+body {
+  padding-top: 50px;
+  font-family: 'Garamond', serif;
+  background-color: #d5f6f1;
+  color: #000;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  color: #fb9a99;
+}
