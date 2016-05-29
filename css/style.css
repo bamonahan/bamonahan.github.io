@@ -52,7 +52,7 @@
 }
 
 .jumbotron {
-  background-image: url("../Assets/Ocean-Underwater-01.jpg");
+  background-image: url("../Assets/world-01.png");
   font-family: 'Verdana', sans-serif;
 	text-align: center;
   background-color: #92e8db;
@@ -61,7 +61,7 @@
 .jumbotron h2 {
 	font-size: 40px;
 	font-weight: bold;
-  color: white;
+  color: #26547C;
 }
 
 .resume li {
