@@ -1,6 +1,6 @@
 
 .navbar-default {
-  background-color: #fed29a;
+  background-color: #06D6A0;
   border-radius: 0;
   background-image: none;
 }
@@ -17,7 +17,7 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #fb9a99;
+    color: #EF476F;
 }
 
 
@@ -37,14 +37,14 @@
 }
 
 .portfolio-thumbnail {
-	border-width: 2px;
+	border-width: 4px;
 	border-style: solid;
-	border-color: #fed29a;
+	border-color: #FFD166;
 	width: 95%;
 }
 
 .portfolio-thumbnail:hover {
-  border-color: #fb9a99;
+  border-color: #EF476F;
 }
 
 .portfolio-image {
@@ -79,8 +79,8 @@ font-size: 26px;
 body {
   padding-top: 50px;
   font-family: 'Verdana', sans-serif;
-  background-color: #d5f6f1;
-  color: #000;
+  background-color: #26547C;
+  color: #FCFCFC;
 }
 
 p {
@@ -88,5 +88,14 @@ p {
 }
 
 a {
-  color: #fb9a99;
+  color: #FFD166;
+}
+
+a:hover {
+  color: #EF476F;
+}
+
+#cyclingmap {
+  width: 90%;
+  align-self: center;
 }
