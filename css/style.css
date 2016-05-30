@@ -59,7 +59,19 @@
 }
 
 .jumbotron h2 {
-	font-size: 40px;
+	font-size: 45px;
+	font-weight: bold;
+  color: #26547C;
+}
+
+.jumbotron h4 {
+	font-size: 30px;
+	font-weight: bold;
+  color: #26547C;
+}
+
+.jumbotron h6 {
+	font-size: 20px;
 	font-weight: bold;
   color: #26547C;
 }
