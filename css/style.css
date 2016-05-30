@@ -52,7 +52,7 @@
 }
 
 .jumbotron {
-  background-image: url("../Assets/world-01.png");
+  background-image: url("../Assets/hexagons.png");
   font-family: 'Verdana', sans-serif;
 	text-align: center;
   background-color: #92e8db;
@@ -84,7 +84,7 @@ body {
 }
 
 p {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 a {
