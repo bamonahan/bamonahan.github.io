@@ -51,28 +51,36 @@
 
 }
 
+@font-face {
+  font-family: "CaviarDreams";
+  src: url(Assets/caviar_dreams/CaviarDreams.ttf);
+}
+
+
 .jumbotron {
   background-image: url("../Assets/hexagons.png");
-  font-family: 'Verdana', sans-serif;
+  font-family: 'CaviarDreams';
+  font-weight: bold;
 	text-align: center;
   background-color: #92e8db;
 }
 
 .jumbotron h2 {
 	font-size: 45px;
-	font-weight: bold;
+	font-family: 'CaviarDreams';
+  font-weight: bold;
   color: #26547C;
 }
 
 .jumbotron h4 {
 	font-size: 30px;
-	font-weight: bold;
+	font-family: 'CaviarDreams';
   color: #26547C;
 }
 
 .jumbotron h6 {
 	font-size: 20px;
-	font-weight: bold;
+	font-family: 'CaviarDreams';
   color: #26547C;
 }
 
@@ -88,9 +96,15 @@ font-size: 26px;
   font-size: 20px;
 }
 
+@font-face {
+  font-family: "CaviarDreams";
+  src: url(Assets/caviar_dreams/CaviarDreams.ttf);
+}
+
+
 body {
   padding-top: 50px;
-  font-family: 'Verdana', sans-serif;
+  font-family: 'CaviarDreams', sans-serif;
   background-color: #26547C;
   color: #FCFCFC;
 }
