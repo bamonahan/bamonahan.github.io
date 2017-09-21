@@ -1,4 +1,9 @@
 
+@font-face {
+  font-family: "CaviarDreams";
+  src: url(Assets/caviar_dreams/CaviarDreams.ttf);
+}
+
 .navbar-default {
   background-color: #06D6A0;
   border-radius: 0;
@@ -51,11 +56,6 @@
 
 }
 
-@font-face {
-  font-family: "CaviarDreams";
-  src: url(Assets/caviar_dreams/CaviarDreams.ttf);
-}
-
 
 .jumbotron {
   background-image: url("../Assets/hexagons.png");
@@ -90,15 +90,11 @@
 
 .resume h3 {
 font-size: 26px;
+color: #06D6A0;
 }
 
 .about p {
   font-size: 20px;
-}
-
-@font-face {
-  font-family: "CaviarDreams";
-  src: url(Assets/caviar_dreams/CaviarDreams.ttf);
 }
 
 
