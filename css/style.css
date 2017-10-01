@@ -1,7 +1,7 @@
 
 @font-face {
+  src: url("../Assets/caviar_dreams/CaviarDreams.ttf");
   font-family: "CaviarDreams";
-  src: url('Assets/caviar_dreams/CaviarDreams.ttf');
 }
 
 .navbar-default {
